@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @dengmatet
-- 👀 I’m interested in software developer 
-- 🌱 I’m currently learning PHP and python framework (flask)
-- 💞️ I’m looking to collaborate on help build project 
-- 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Hi there 👋, I'm Dengmatet!
 
-<!---
-dengmatet/dengmatet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! I'm a passionate developer with interests in various aspects of software development. Here’s a bit about me:
+
+- 🌱 I’m currently learning and exploring new technologies.
+- 💼 I'm open to collaborating on interesting projects.
+- 📫 You can reach me at: matetmartin5@gmail.com
+- 🚀 I love working on open-source projects and contributing to the community.
+
+### 🛠️ Technologies & Tools
+
+- **Languages**: Python, JavaScript, Java, C++
+- **Frameworks**: React, Node.js, Django
+- **Tools**: Git, Docker, Kubernetes, VS Code
+
+### 📈 GitHub Stats
+
+![Dengmatet's GitHub stats](https://github-readme-stats.vercel.app/api?username=dengmatet&show_icons=true&theme=radical)
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/dengmatet/)
+- [Twitter](https://twitter.com/dengmatet)
+
+### 🌟 Projects
+
+Here are some of the projects I'm working on:
+
+- [Project 1](https://github.com/dengmatet/project1) - Description of project 1.
+- [Project 2](https://github.com/dengmatet/project2) - Description of project 2.
+
+### 📝 Blog
+
+Check out my latest blog posts:
+
+- [Blog Post 1](https://yourblog.com/post1) - Summary of blog post 1.
+- [Blog Post 2](https://yourblog.com/post2) - Summary of blog post 2.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. Happy coding!
